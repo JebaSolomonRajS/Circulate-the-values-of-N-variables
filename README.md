@@ -51,7 +51,7 @@ def circulate():
 
 ## Output:
 
-![output](/outputcirculate.png)
+![output](/output.png)
 
 ## Result:
 
